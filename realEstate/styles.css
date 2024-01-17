@@ -1,0 +1,15 @@
+body{
+    font-family: arial;
+}
+.site-init{
+    background-image: url(img/header.jpg);
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    color: white;
+
+}
+
+.header-flex{
+    display: block;
+}
